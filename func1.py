@@ -1,3 +1,5 @@
 print("New func")
-a = input("write first number: ")
-b = input("write second number: ")
+a = int(input("write first number: "))
+b = int(input("write second number: "))
+print(f"result of sum: {a-b}")
+
